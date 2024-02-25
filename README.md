@@ -1,11 +1,6 @@
 # Project: Lumen Service App
 Tugas 4 - Web Service
 
-## Installation
-### Git Clone
-```sh
-git clone -b tugas-4 https://github.com/xyzjgmday/web-service.git
-```
 
 ### install Dependency 
 ```sh
@@ -47,7 +42,7 @@ php artisan serve
 
 ```json
 {
-    "email" : "daysubhiz@gmail.com",
+    "email" : "ikhsanfzn@gmail.com",
     "password" : "password"
 }
 ```
